@@ -499,6 +499,12 @@
 #define BOARD_MINITRONICS20           7103  // Minitronics v2.0
 
 //
+// RaspberryPi
+//
+
+#define BOARD_RP2040                  6200 // Generic RP2040 Test board
+
+//
 // Custom board
 //
 

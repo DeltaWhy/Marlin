@@ -866,6 +866,13 @@
   #include "samd/pins_MINITRONICS20.h"          // SAMD21                                 env:SAMD21_minitronics20
 
 //
+// RaspberryPi RP2040
+//
+
+#elif MB(RP2040)
+  #include "rp2040/pins_RP2040.h"               // RP2040                                 env:RP2040
+
+//
 // Custom board (with custom PIO env)
 //
 
