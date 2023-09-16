@@ -92,7 +92,7 @@
 #define HEATER_0_PIN                          23
 #define HEATER_BED_PIN                        21
 
-#define FAN_PIN                               17
+#define FAN0_PIN                              17
 #define FAN1_PIN                              18
 
 #if HAS_CUTTER
